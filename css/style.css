@@ -1,0 +1,102 @@
+/*INIZIO REGOLE GENERALI*/
+.wrapper_70 {
+
+  width: 70%;
+  margin: 0 auto;
+
+}
+
+
+.ms_section {
+
+  padding: 40px 0px;
+
+}
+
+
+.ms_primary {
+
+  background-color: #1abc9c;
+  color: white;
+
+}
+
+
+.ms_secondary {
+
+  background-color: white;
+  color: black;
+
+}
+
+/*intro*/
+.ms_section .ms_intro {
+
+  text-align: center;
+  margin-bottom: 30px;
+
+}
+
+
+/*divider*/
+.ms_secondary .ms_star {
+
+  color: #darkblue;
+
+}
+/*FINE REGOLE GENERALI*/
+
+
+/*HEADER*/
+/*navbar*/
+.primary_nav {
+
+  background-color: #2c3e50;
+  color: white;
+  height: 80px;
+
+}
+
+
+/*MAIN*/
+/*section: hero*/
+.ms_section_hero {
+
+  padding: 32px 0px;
+
+}
+
+
+/*section: portfolio*/
+.ms_portfolio_item {
+
+  height: 300px;
+  background-color: red;
+  margin-bottom: 30px;
+
+}
+
+
+/*section: about*/
+.ms_about_text {
+
+  margin-bottom: 30px;
+
+}
+
+
+/*FOOTER*/
+footer .footer_section {
+  padding: 40px 0;
+}
+
+footer .company_info {
+  color: white;
+  background-color: blue;
+}
+
+footer .company_credits {
+  color: white;
+  background-color: darkblue;
+  text-align: center;
+}
